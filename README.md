@@ -182,7 +182,3 @@ sudo apt install -y build-essential wget tar busybox-static \
 
 ---
 
-
----
-
-> Dibuat untuk memenuhi tugas Praktikum Sistem Operasi 2026 — Institut Teknologi Sepuluh Nopember (ITS)
